@@ -30,21 +30,22 @@ ColumnaTipoDescripciónAnxiety_Level_During_ExamsEnteroNivel de ansiedad en exá
 VariableMínMediaMáxGPA Pre-semestre1,183,154,00GPA Post-semestre1,003,354,00Horas semanales de IA0,008,4340,00Horas de estudio tradicional1,0011,2135,86Puntuación de retención10,7875,80100,00Dependencia percibida de IA13,5110Nivel de ansiedad14,2710
 
 ## 💡 Posibles Usos
-### 📉 Análisis de cambio en GPA — ¿Cómo se correlaciona el uso de IA con la mejora o el descenso académico?
+ 📉 Análisis de cambio en GPA — ¿Cómo se correlaciona el uso de IA con la mejora o el descenso académico?
 
-### 🧩 Predicción de burnout — Construir un clasificador para predecir el nivel de burnout a partir de hábitos de estudio y uso de IA.
+🧩 Predicción de burnout — Construir un clasificador para predecir el nivel de burnout a partir de hábitos de estudio y uso de IA.
 
-### 🔍 Modelado de retención de habilidades — ¿Perjudica el uso intensivo de IA la retención de conocimientos a largo plazo?
+🔍 Modelado de retención de habilidades — ¿Perjudica el uso intensivo de IA la retención de conocimientos a largo plazo?
 
-### 🏛️ Estudio de impacto de políticas — Comparar resultados bajo distintas políticas institucionales de IA.
+🏛️ Estudio de impacto de políticas — Comparar resultados bajo distintas políticas institucionales de IA.
 
-### 🧠 Insights de salud mental — Explorar vínculos entre dependencia de IA, ansiedad y burnout.
+🧠 Insights de salud mental — Explorar vínculos entre dependencia de IA, ansiedad y burnout.
 
-### 🎓 Tendencias por carrera y curso — ¿Qué disciplinas se benefician más (o sufren más) de la adopción de IA?
+🎓 Tendencias por carrera y curso — ¿Qué disciplinas se benefician más (o sufren más) de la adopción de IA?
 
-### ⚡ Prima del prompt engineering — ¿Superan en rendimiento los estudiantes con habilidades avanzadas en prompts?
+⚡ Prima del prompt engineering — ¿Superan en rendimiento los estudiantes con habilidades avanzadas en prompts?
 
-### 🔑 Variables Objetivo Sugeridas
+🔑 Variables Objetivo Sugeridas
+
 ObjetivoColumnaRegresiónPost_Semester_GPA, Skill_Retention_ScoreClasificaciónBurnout_Risk_LevelAnálisisPerceived_AI_Dependency, Anxiety_Level_During_Exams
 
 ## 🧹 Calidad de los Datos
